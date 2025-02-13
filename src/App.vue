@@ -1,20 +1,40 @@
-<script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
   <div>
     <a href="https://vite.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
-    <a href="https://vuejs.org/" target="_blank">
+    <a href="https://vuejs.org" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <div class="nav">
+    <router-link to="/">Home</router-link> |
+    <router-link to="/about">About</router-link>
+  </div>
+  <router-view />
 </template>
 
+<script setup lang="ts">
+// No need for imports or script setup in this case
+</script>
+
 <style scoped>
+.nav {
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.nav a {
+  margin: 0 0.5rem;
+  color: #646cff;
+  text-decoration: none;
+}
+
+.nav a.router-link-active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

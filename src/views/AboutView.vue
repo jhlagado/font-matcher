@@ -1,7 +1,7 @@
 <template>
-    <div class="home">
-      <h1>Welcome to the Font Matcher App</h1>
-      <p>This is the home page of the Font Matcher application.</p>
+    <div class="about">
+      <h1>About the Font Matcher App</h1>
+      <p>This page provides information about the Font Matcher application.</p>
     </div>
   </template>
 
@@ -9,15 +9,15 @@
   import { defineComponent } from 'vue';
 
   export default defineComponent({
-    name: 'HomeView',
+    name: 'AboutView',
     setup() {
-      // Add setup logic here
+      // Add setup logic if needed
     },
   });
   </script>
 
   <style scoped>
-  .home {
+  .about {
     text-align: center;
     padding: 20px;
   }
