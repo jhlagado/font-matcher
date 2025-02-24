@@ -1,62 +1,82 @@
 {
   "Roboto": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Open Sans": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Lato": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Montserrat": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Raleway": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "PT Sans": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Inter": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Source Sans Pro": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Trebuchet MS"
   },
   "Fraunces": {
-    "category": "serif"
+    "category": "serif",
+    "fallback": "Georgia"
   },
   "Merriweather": {
-    "category": "serif"
+    "category": "serif",
+    "fallback": "Georgia"
   },
   "Poppins": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Lora": {
-    "category": "serif"
+    "category": "serif",
+    "fallback": "Georgia"
   },
   "Ubuntu": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Nunito": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Roboto Condensed": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Playfair Display": {
-    "category": "serif"
+    "category": "serif",
+    "fallback": "Times New Roman"
   },
   "Cabin": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Manrope": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Epilogue": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   },
   "Public Sans": {
-    "category": "sans-serif"
+    "category": "sans-serif",
+    "fallback": "Arial"
   }
 }
