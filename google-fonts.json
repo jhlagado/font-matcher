@@ -1,0 +1,62 @@
+{
+  "Roboto": {
+    "category": "sans-serif"
+  },
+  "Open Sans": {
+    "category": "sans-serif"
+  },
+  "Lato": {
+    "category": "sans-serif"
+  },
+  "Montserrat": {
+    "category": "sans-serif"
+  },
+  "Raleway": {
+    "category": "sans-serif"
+  },
+  "PT Sans": {
+    "category": "sans-serif"
+  },
+  "Inter": {
+    "category": "sans-serif"
+  },
+  "Source Sans Pro": {
+    "category": "sans-serif"
+  },
+  "Fraunces": {
+    "category": "serif"
+  },
+  "Merriweather": {
+    "category": "serif"
+  },
+  "Poppins": {
+    "category": "sans-serif"
+  },
+  "Lora": {
+    "category": "serif"
+  },
+  "Ubuntu": {
+    "category": "sans-serif"
+  },
+  "Nunito": {
+    "category": "sans-serif"
+  },
+  "Roboto Condensed": {
+    "category": "sans-serif"
+  },
+  "Playfair Display": {
+    "category": "serif"
+  },
+  "Cabin": {
+    "category": "sans-serif"
+  },
+  "Manrope": {
+    "category": "sans-serif"
+  },
+  "Epilogue": {
+    "category": "sans-serif"
+  },
+  "Public Sans": {
+    "category": "sans-serif"
+  }
+}
